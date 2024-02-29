@@ -9,7 +9,7 @@ Xiaowei is a Ph.D. candidate (started at Sep. 2017) in fluid mechanics under the
 
 I received a MPhil. in Bridge Engineering from Tongji University supervised by [Prof. Yaojun Ge](https://bridge.tongji.edu.cn/Data/View/279) and [Prof. Yongxin Yang](https://bridge.tongji.edu.cn/Data/View/285) in 2017. Before that, I completed a B.Sc in Civil Engineering from Hunan University under the supervision of Prof. Zhi Fang in 2013.
 
-I am interested in turbulence modelling, machine learning, and structures such as bridges, wind turbines. I am fond of reading books about history, philosophy and films. The [Icarians](https://en.wikipedia.org/wiki/Icarians) is named after a French-based utopian socialist movement. Though egalitarianism is an ideal dream in this scarity land, it is the lighthouse of taking care of minortiy groups and also the earth itself. 
+I am interested in turbulence modelling, machine learning, and structures such as bridges, wind turbines. I am fond of reading books about history, philosophy and films. 
 
 Feel free to contact me via:
 [Github page](https://github.com/shiyuent), xiaoweix2@student.unimelb.edu.au.
