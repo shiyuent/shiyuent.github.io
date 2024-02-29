@@ -5,14 +5,14 @@ name: index
 ---
 Welcome to my space. 
 
-Xiaowei is a Ph.D. candidate (started at Sep. 2017) in fluid mechanics under the supervision of [Prof. Richard Sanberg](https://findanexpert.unimelb.edu.au/profile/742813-richard-sandberg) at the [Unimelb Fluid Mechanics Group](https://fluids.eng.unimelb.edu.au/).
+Xiaowei is a research in fluid mechanics, obtained my Ph.D. degreee from The University of Melbourne under the supervision of [Prof. Richard Sanberg](https://findanexpert.unimelb.edu.au/profile/742813-richard-sandberg) and Prof. Andrew Ooi at the [Unimelb Fluid Mechanics Group](https://fluids.eng.unimelb.edu.au/).
 
 I received a MPhil. in Bridge Engineering from Tongji University supervised by [Prof. Yaojun Ge](https://bridge.tongji.edu.cn/Data/View/279) and [Prof. Yongxin Yang](https://bridge.tongji.edu.cn/Data/View/285) in 2017. Before that, I completed a B.Sc in Civil Engineering from Hunan University under the supervision of Prof. Zhi Fang in 2013.
 
 I am interested in turbulence modelling, machine learning, and structures such as bridges, wind turbines. I am fond of reading books about history, philosophy and films. 
 
 Feel free to contact me via:
-[Github page](https://github.com/shiyuent), xiaoweix2@student.unimelb.edu.au.
+[Github page](https://github.com/shiyuent), xiaowei.xu@unimelb.edu.au.
 
 ---
 
